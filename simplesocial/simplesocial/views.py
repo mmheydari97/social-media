@@ -1,6 +1,4 @@
 from django.views.generic import TemplateView
-from django.http import HttpResponseRedirect
-from django.urls import reverse
 
 
 class TestPage(TemplateView):
