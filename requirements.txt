@@ -1,2 +1,7 @@
 Django==2.1.7
+django-misaka==0.2.1
+django-braces==1.13.0
+django-bootstrap3==11.0.0
+django-humanize==0.1.2
+humanize==0.5.1
 
